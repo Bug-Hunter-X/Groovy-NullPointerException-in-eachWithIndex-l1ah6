@@ -1,0 +1,1 @@
+This repository demonstrates a common NullPointerException in Groovy when using the eachWithIndex method on a potentially null list. The bug and solution are provided in separate Groovy files.
